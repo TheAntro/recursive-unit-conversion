@@ -1,0 +1,11 @@
+kg;lb;2.2
+m;ft;3.28
+km;mi;0.62
+cm;in;0.39
+kg;st;0.16
+g;oz;0.04
+mm;in;0.04
+kg;g;1000
+m;cm;100
+km;m;1000
+cm;mm;10
